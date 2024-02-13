@@ -1,0 +1,17 @@
+.img-edit {
+  height: 100px;
+  width: 100px;
+}
+.btn-edit {
+  color: red;
+  border: 1px solid red;
+  border-radius: 4px;
+  height: 28px;
+  margin-right: 13px;
+}
+
+.bgCol {
+  color: #ffffff;
+  background-color: red;
+  border: none;
+}
